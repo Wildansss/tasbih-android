@@ -45,37 +45,11 @@ button {
 }
 
 #end {
-    color: white;
+    color: yellow;
+    font-family:arial;
+    font-size: 30px;
+
 }
 
 
-#start {    
-    text-align: center;
-    margin-top: 10px;
-    margin-right:1px;
-    margin-left: 14px;
-    margin-bottom: 10px; 
-}
 
-#plus {   
-    text-align: center;
-    margin-top: 15px;
-    margin-right: 20px;
-    margin-bottom: 10px;
-    }
-
-#minus {
-      text-align: center;
-      margin-top: 10px;
-      margin-right: 20px;
-      margin-bottom: 10px;
-}
-
-#stop {
-    text-align: center;
-    margin-top: 10px;
-    margin-right:10px;
-    margin-left: 20px;
-    margin-bottom: 10px;
-    font-size:22px;
-}
